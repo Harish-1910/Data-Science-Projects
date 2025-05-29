@@ -35,11 +35,11 @@ The dataset used is `Mall_Customers.csv`, which includes the following features:
    - Optimal clusters found: **5**
 
 4. **Training the K-Means Model**  
-   - Applied the KMeans algorithm with 4 clusters.
+   - Applied the KMeans algorithm with 5 clusters.
    - Predicted customer group labels.
 
 5. **Visualization**  
-   - Visualized all 4 clusters using different colors.
+   - Visualized all 5 clusters using different colors.
    - Highlighted cluster centroids.
 
 ---
